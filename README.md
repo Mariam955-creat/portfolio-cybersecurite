@@ -3,7 +3,7 @@
 > Projet de laboratoire SOC : simuler une attaque par force brute sur un compte Windows, collecter les journaux de sécurité dans un SIEM (Splunk), détecter l'attaque avec des recherches SPL et créer une alerte automatique.
 
 **Auteure :** Mariam Balde · [LinkedIn](https://linkedin.com/in/mariam-balde-611457124)
-**Niveau :** débutant · **Durée :** [X] heures
+**Niveau :** débutant · **Durée :** [2] heures
 **Outils :** Splunk Enterprise, journaux d'événements Windows, PowerShell, MITRE ATT&CK
 
 ---
